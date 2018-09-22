@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PasteColourTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-09T11:59:24" hostname="WGC1W7GWW6VF2" time="0.001">
+  <properties/>
+  <testcase name="testToVerifyStandardRate" classname="PasteColourTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

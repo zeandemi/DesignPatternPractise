@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="selenium-api-3.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.12.0/8581c2f303b67b6be6b089bcd5ddbecb2a41af6b/selenium-api-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.12.0/e50c9d30d7a9e38c4ce777f3ef15aa1163342d9a/selenium-chrome-driver-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.12.0/5330fe3ba321f9ade58c6ed23da6bdebc1a4d95a/selenium-edge-driver-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.12.0/b44da882625fdc1e8e99035b3d1bb488d17802e6/selenium-firefox-driver-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.12.0/6feab497a52383ddff27a0b6266781f267be4139/selenium-ie-driver-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.12.0/3244e6c89d8708587ae5785723be1330b1e72299/selenium-support-3.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.12.0/15d99776d15f63967c156df4eea52d2c9e5960fa/selenium-chrome-driver-3.12.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.12.0/c59ca0386ea410d0273719cb93ad6c10f6abc378/selenium-edge-driver-3.12.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.12.0/51b4b03ae9a266538d182d525a710f12ad0a2f9a/selenium-firefox-driver-3.12.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.12.0/5f497dae5de4616c59422f35f3b95b3359f5a27/selenium-ie-driver-3.12.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.12.0/3da2845356347e83a2e698308dc89f05dd00dcca/selenium-support-3.12.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
